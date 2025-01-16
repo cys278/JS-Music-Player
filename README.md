@@ -108,5 +108,6 @@ This project is a simple Spotify clone that allows users to play, pause, and nav
 
 ## Conclusion
 
-This Spotify clone project is a beginner-friendly application that showcases how to build a simple music player with HTML, CSS, and JavaScript. It can be further extended with advanced features like playlists, search functionality, and user authentication.
+This Spotify clone project is a beginner-friendly application that showcases how to build a simple music player with HTML, CSS, and JavaScript. It can be further extended with advanced features like playlists, search functionality, and user authentication. Most Interesting part is that I'm already working on that
+
 
