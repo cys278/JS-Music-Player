@@ -3,7 +3,7 @@
 
 This project is a simple Spotify clone that allows users to play, pause, and navigate through songs. It demonstrates basic web development techniques and JavaScript functionality for handling media playback. Below is an overview of the project structure and key features.
 
----
+
 
 ## Project Structure
 
@@ -16,7 +16,7 @@ This project is a simple Spotify clone that allows users to play, pause, and nav
 ### JavaScript
 - **`spotify.js`**: Implements the logic for music playback, including play/pause functionality, navigation between songs, and updating the UI dynamically.
 
----
+
 
 ## Key Features
 
@@ -36,7 +36,7 @@ This project is a simple Spotify clone that allows users to play, pause, and nav
 4. **Interactive Icons**:
    - FontAwesome icons are used for buttons and navigation, making the interface modern and user-friendly.
 
----
+
 
 ## How to Run the Project
 
@@ -57,7 +57,7 @@ This project is a simple Spotify clone that allows users to play, pause, and nav
 4. **Dependencies**:
    - Ensure you have an internet connection to load external resources such as FontAwesome icons and Google Fonts.
 
----
+
 
 ## Code Explanation
 
@@ -82,14 +82,14 @@ This project is a simple Spotify clone that allows users to play, pause, and nav
   - `makeAllPlays`: Resets all play buttons to the default state.
   - Updates the UI dynamically based on the current playback state.
 
----
+
 
 ## Dependencies
 
 - **FontAwesome**: For icons used in navigation and controls.
 - **Google Fonts**: For custom fonts (e.g., Ubuntu and EB Garamond).
 
----
+
 
 ## Improvements
 
@@ -103,7 +103,7 @@ This project is a simple Spotify clone that allows users to play, pause, and nav
 4. **Backend Integration**:
    - Integrate with a backend API to fetch songs dynamically.
 
----
+
 
 ## Conclusion
 
