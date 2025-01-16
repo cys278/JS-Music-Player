@@ -1,6 +1,5 @@
-## JS-Music-Player
+# JS-Music-Player
 
-# Spotify Clone
 
 This project is a simple Spotify clone that allows users to play, pause, and navigate through songs. It demonstrates basic web development techniques and JavaScript functionality for handling media playback. Below is an overview of the project structure and key features.
 
